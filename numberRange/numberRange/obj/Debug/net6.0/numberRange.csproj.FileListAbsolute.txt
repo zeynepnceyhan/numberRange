@@ -1,0 +1,15 @@
+C:\Users\zeynep\source\repos\numberRange\numberRange\bin\Debug\net6.0\numberRange.exe
+C:\Users\zeynep\source\repos\numberRange\numberRange\bin\Debug\net6.0\numberRange.deps.json
+C:\Users\zeynep\source\repos\numberRange\numberRange\bin\Debug\net6.0\numberRange.runtimeconfig.json
+C:\Users\zeynep\source\repos\numberRange\numberRange\bin\Debug\net6.0\numberRange.dll
+C:\Users\zeynep\source\repos\numberRange\numberRange\bin\Debug\net6.0\numberRange.pdb
+C:\Users\zeynep\source\repos\numberRange\numberRange\obj\Debug\net6.0\numberRange.csproj.AssemblyReference.cache
+C:\Users\zeynep\source\repos\numberRange\numberRange\obj\Debug\net6.0\numberRange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeynep\source\repos\numberRange\numberRange\obj\Debug\net6.0\numberRange.AssemblyInfoInputs.cache
+C:\Users\zeynep\source\repos\numberRange\numberRange\obj\Debug\net6.0\numberRange.AssemblyInfo.cs
+C:\Users\zeynep\source\repos\numberRange\numberRange\obj\Debug\net6.0\numberRange.csproj.CoreCompileInputs.cache
+C:\Users\zeynep\source\repos\numberRange\numberRange\obj\Debug\net6.0\numberRange.dll
+C:\Users\zeynep\source\repos\numberRange\numberRange\obj\Debug\net6.0\refint\numberRange.dll
+C:\Users\zeynep\source\repos\numberRange\numberRange\obj\Debug\net6.0\numberRange.pdb
+C:\Users\zeynep\source\repos\numberRange\numberRange\obj\Debug\net6.0\numberRange.genruntimeconfig.cache
+C:\Users\zeynep\source\repos\numberRange\numberRange\obj\Debug\net6.0\ref\numberRange.dll
